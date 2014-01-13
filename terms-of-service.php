@@ -179,7 +179,7 @@ padding: 4px 0;
     V. Donations
   </div>
     <div style="margin: 0 0 0 26px;">	
-      All items purchased through Down With Destruction website or through third-party services will be made available to you in-game for the duration of your membership (with the exception of VIP passes and Reserve List entries, which expire at a later date). All donations, payments, and purchases are non-refundable and non-transferable. Purchases of in-game items, such as premium vaults and city houses, represent a limited-ownership agreement, in which Down With Destruction still reserves the right to seize or re-possess any of those items under extreme circumstances (such as termination of membership).<br>
+      All items purchased through Down With Destruction website or through Third-Party Vendors will be made available to you in-game for the duration of your membership (with the exception of VIP passes and Reserve List entries, which expire at a later date). All donations, payments, and purchases are non-refundable and non-transferable. Purchases of in-game items, such as premium vaults and city houses, represent a limited-ownership agreement, in which Down With Destruction still reserves the right to seize or re-possess any of those items under extreme circumstances (such as termination of membership).<br>
       <br>
       Additionally, in the event that a player has been inactive for an excessive amount of time, At Staff Discretion, we reserve the right to repossess any property he or she owns. Upon returning to the server, players in good standing will receive their purchased items back, At Staff Discretion.
     </div>
@@ -282,7 +282,7 @@ padding: 4px 0;
 </div>
 <div class="tos-section-box">
   <div style="font-weight: bolder;font-style: oblique;font-size: large;margin: 15px 0 4px 0;">
-    XIII. DwD's Indemnity
+    XIII. Down With Destruction Indemnity
   </div>
     <div style="margin: 0 0 0 26px;">
       Down With Destruction agrees to indemnify, defend, and hold harmless Customers & Donators from and against any and all third party claims, damages, losses, liability, causes of action, judgments, costs, or expenses (including, without limitation, reasonable attorneys’ fees) asserted against or suffered by Customers or Donators arising out of any claim alleging that the Services as provided by Down With Destruction infringe any third party’s intellectual property rights.

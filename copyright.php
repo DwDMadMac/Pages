@@ -21,8 +21,8 @@
                 background-image: -webkit-linear-gradient(rgba(255,255,255,0.35), rgba(255,255,255,0));
                 background-image: -moz-linear-gradient(rgba(255,255,255,0.35), rgba(255,255,255,0));
                 margin-bottom: 16px;
-                min-width: 500px;
-                max-width: 500px;
+                min-width: 450px;
+                max-width: 450px;
                 min-height: 80px;
                 max-height: 80px;
                 overflow: hidden;
